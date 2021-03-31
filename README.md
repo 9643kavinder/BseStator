@@ -28,3 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+
+<p align="center">
+  <img src="https://github.com/9643kavinder/DeepDiagnose/blob/master/readme_ss/Screen Shot 2021-03-31 at 5.16.34 PM.png" />
+ </p>
