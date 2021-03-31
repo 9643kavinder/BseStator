@@ -38,12 +38,12 @@ export default {
     }
   },
   async created(){
-      var response = await fetch ('http://127.0.0.1:8000/api/');
+      var response = await fetch ('https://bseapp.osc-fr1.scalingo.io/api/');
       this.companies = await response.json();
   },
   methods : {
     async searchcompany(){
-      var response = await fetch (`http://127.0.0.1:8000/api/${this.name}`);
+      var response = await fetch (`https://bseapp.osc-fr1.scalingo.io/api/${this.name}`);
       this.companies = await response.json();
       // this.name = '';
     }
