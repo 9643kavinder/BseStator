@@ -1,5 +1,5 @@
 # bse-listing
-
+Live URL : https://bse-stator.herokuapp.com/
 ## Project setup
 ```
 npm install
@@ -20,5 +20,11 @@ npm run build
 npm run lint
 ```
 
+## Technologies Used
+* FrontEnd
+  * HTML/CSS
+  * VueJS
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
